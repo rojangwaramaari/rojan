@@ -15,8 +15,8 @@
   --violet: #8b5cf6;
   --cyan: #06b6d4;
   --white: #ffffff;
-  --dim: rgba(23, 9, 9, 0.55);
-  --faint: rgba(255, 255, 255, 0.32);
+  --dim: rgba(225, 225, 225, 0.62);
+  --faint: rgba(255, 255, 255, 0.48);
   --ease: cubic-bezier(0.16, 1, 0.3, 1);
   --ring-radius: 360px;
 }
